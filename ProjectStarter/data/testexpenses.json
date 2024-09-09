@@ -1,0 +1,14 @@
+[
+    {
+        "date": "October 10",
+        "amount": 50,
+        "month": 10,
+        "description": "coffee"
+    },
+    {
+        "date": "August 8",
+        "amount": 200,
+        "month": 8,
+        "description": "dinner"
+    }
+]

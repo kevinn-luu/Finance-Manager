@@ -1,0 +1,14 @@
+[
+    {
+        "date": "March 3",
+        "amount": 20,
+        "month": 3,
+        "description": "lunch"
+    },
+    {
+        "date": "October 5",
+        "amount": 100,
+        "month": 10,
+        "description": "gift"
+    }
+]

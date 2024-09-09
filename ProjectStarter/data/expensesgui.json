@@ -1,0 +1,26 @@
+[
+    {
+        "date": "August 6",
+        "amount": 2000,
+        "month": 8,
+        "description": "Rent"
+    },
+    {
+        "date": "August 7",
+        "amount": 40,
+        "month": 8,
+        "description": "groceries"
+    },
+    {
+        "date": "August 10",
+        "amount": 30,
+        "month": 8,
+        "description": "Coffee and lunch"
+    },
+    {
+        "date": "October 8",
+        "amount": 20,
+        "month": 10,
+        "description": "Coffee"
+    }
+]
